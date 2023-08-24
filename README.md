@@ -1,6 +1,7 @@
 # plain-nodejs-training
 This is the code from a NodeJS training
 
+!keys are not used for anything, since they do not present sensitive information
 
 # Commands
 
